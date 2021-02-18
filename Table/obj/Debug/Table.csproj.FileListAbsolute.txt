@@ -1,0 +1,15 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\bin\Debug\Table.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\bin\Debug\Table.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\bin\Debug\Table.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\bin\Debug\aa\Table.resources.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\bin\Debug\af-ZA\Table.resources.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.Form1.aa.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\Table.Form1.af-ZA.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\aa\Table.resources.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\Table\Table\obj\Debug\af-ZA\Table.resources.dll
